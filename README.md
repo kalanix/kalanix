@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalanix
-- 👀 I’m interested in coding stuff special encryption related
+- 👀 I’m interested in coding stuff specially encryption related
 - 🌱 I’m currently learning C++ and ethical hacking
 - 💞️ I’m looking to collaborate on C++ based projects
 - 📫 How to reach me: t.me/@silenceofhim || kalanixspeed@gmail.com
